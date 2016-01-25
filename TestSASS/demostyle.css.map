@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AAIA,IAAK;EACJ,IAAI,EAAE,0BAAgB;EACtB,KAAK,EAJU,IAAI;;AAOpB,MAAO;EAAE,MAAM,EAAE,aAA0B;;AAE3C,MAAO;EAAE,MAAM,EAAE,aAA0B",
+"sources": ["../../../../SASS/scss/demostyle.scss"],
+"names": [],
+"file": "demostyle.css"
+}
